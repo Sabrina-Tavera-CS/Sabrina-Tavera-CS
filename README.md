@@ -1,4 +1,4 @@
-Hi, I’m @Sabrina-Tavera-CS and I’m interested in Machine learning and hobby projects. I'm currently learning C++ and web development tools like HTML, CSS and JS.
+Hi, I’m Sabrina Tavera and I’m interested in Machine learning and hobby projects. I'm currently learning C++ and web development tools like HTML, CSS and JS.
 I'm looking to collaborate on projects that I can learn from. I can be reached at 
 Sabrinataveracs@gmail.com
 
